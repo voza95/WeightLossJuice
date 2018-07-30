@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weight Loss Juices - Burn Fat</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="level_one">Level One</string>
+    <string name="level_two">Level Two</string>
+    <string name="ad_id_rewarded">ca-app-pub-3940256099942544/5224354917</string>
+    <!--<string name="ad_id_interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+    <string name="ad_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="gameHeader">My Game App</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
